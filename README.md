@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # DFAFN
 
 
@@ -48,3 +49,8 @@ If you want to train by yourself, you can run this command :
 
 
 
+=======
+# Breast Cancer HER2 Status Recognition Based on Dual-Modal Feature Attention Fusion Network
+
+# Proposed method
+>>>>>>> b1704b31c786f50f157922df09ba76608bbb0b8e
