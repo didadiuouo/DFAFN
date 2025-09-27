@@ -1,9 +1,9 @@
 
 # DFAFN
 
-# Breast Cancer HER2 Status Recognition Based on Dual-Modal Feature Attention Fusion Network
+## Breast Cancer HER2 Status Recognition Based on Dual-Modal Feature Attention Fusion Network
 
-# Proposed method
+## Proposed method
 
 The DFAFN is composed of a HER2 Ultrasound Image Feature Extractor (HUFE), a HER2 Radiomic Feature Extractor (HRFE), a HER2 Status-related Feature Learning
 
@@ -24,14 +24,9 @@ The figure below shows our proposed network.
 
 Install dependencies
 
-Train by yourself
+Train and test by yourself
 
 If you want to train by yourself, you can run this command :
+    
     python run DFAFN.py
-
-
-
-# Breast Cancer HER2 Status Recognition Based on Dual-Modal Feature Attention Fusion Network
-
-# Proposed method
 
